@@ -1,4 +1,4 @@
-# Food Usage Optimzer App
+# Food Usage and Inventory Optimzer App
 
 ## Short description
 
