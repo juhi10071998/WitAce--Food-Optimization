@@ -87,4 +87,4 @@ Our aim is to make available this technology to every major hotel to begin with.
 [Ishika Kumar](https://github.com/Ishika11)
 [Juhi Mittal](https://github.com/juhi10071998)
 [Tulika Jha](https://github.com/gally-threepwood)
-[Neha Mittal]()
+[Neha Mittal](https://github.com/nehm212?fbclid=IwAR30_T0rn3aX4rBY3_Hce-Rz1yMCjI8rZAu_AKuU7gsnkeZ6TZ5p8_3Qccg)
