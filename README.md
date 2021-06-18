@@ -3,13 +3,13 @@
 ## Short description
 
 ### What's the problem?
-Food wastage is a major environmeental problem facing the world today, and one of the major causes for the global food wastage is higher inventory due to poor forecasts. Many hotels end up over buying raw materials which remain unused till they go bad and are discarded. That end's up in lanfills and rots where it decomposes to produce harmful methane gas which causes green house effect. The energy that went into growing, transporting and harvesting the wasted food is also lost. 
+Food wastage is a major environmental problem facing the world today, and one of the major causes for the global food wastage is higher inventory due to poor forecasts. Many hotels end up over buying raw materials which remain unused till they go bad and are discarded. That ends up in lanfills and rots where it decomposes to produce harmful methane gas which causes green house effect. The energy that went into growing, transporting and harvesting the wasted food is also lost. 
 
 ### How can technology help?
 With AI/ML, and sophisticated training models, it is not so hard to get near perfect predictions. Moreover, in today's time, it is also not hard to find resources for the training dataset. Technoloagy can go a long way in monitoring, maintaing and updating billing logs and using the data to forecast food consumption patterns.
 
 ### The idea
-Using a set of open sourced tools, IBM Cloud and Watson Services, it was possib;e for us to create and Food Usage and Inventory Optimizer, that uses flask on the frontend and LSTM models to get restaurant data in the form of bills ( no extra effort from the users! ) and make predictions on the food consumption pattern for the next 7 days.
+Using a set of open sourced tools, IBM Cloud and Watson Services, it was possible for us to create and Food Usage and Inventory Optimizer, that uses flask on the frontend and LSTM models to get restaurant data in the form of bills ( no extra effort from the users! ) and make predictions on the food consumption pattern for the next 7 days.
 
 ## Demo Video
 [Vimeo Link](https://vimeo.com/564521168)
@@ -84,7 +84,7 @@ Our aim is to make available this technology to every major hotel to begin with.
 
 ## Author
 
-Ishika Kumar [Ishika Kumar](https://github.com/Ishika11)
-Juhi Mittal
-Tulika Jha
-Neha Mittal
+[Ishika Kumar](https://github.com/Ishika11)
+[Juhi Mittal](https://github.com/juhi10071998)
+[Tulika Jha](https://github.com/gally-threepwood)
+[Neha Mittal]()
