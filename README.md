@@ -2,7 +2,7 @@
 
 Food wastage is a global concern, this app optimizes inventory based on past history of restaurant's data using a simple flask interface
 
-[Test Image 5](https://imgur.com/a/Tc5k3xj)
+![Test Image 5](https://github.com/Ishika11/WitAce--Food-Optimization/blob/main/diag.PNG)
 
  ### Go to the Comman Prompt
  Select the directory where the files are saved, that is, within: eCommerceFlask directory
