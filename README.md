@@ -11,6 +11,9 @@ With AI/ML, and sophisticated training models, it is not so hard to get near per
 ### The idea
 Using a set of open sourced tools, IBM Cloud and Watson Services, it was possib;e for us to create and Food Usage and Inventory Optimizer, that uses flask on the frontend and LSTM models to get restaurant data in the form of bills ( no extra effort from the users! ) and make predictions on the food consumption pattern for the next 7 days.
 
+## Demo Video
+[Vimeo Link](https://vimeo.com/564521168)
+
 ![Test Image 5](https://github.com/Ishika11/WitAce--Food-Optimization/blob/main/diag.PNG)
 
  ### Go to the Comman Prompt
