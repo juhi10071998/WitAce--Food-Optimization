@@ -84,7 +84,7 @@ Our aim is to make available this technology to every major hotel to begin with.
 
 ## Author
 
-Ishika Kumar [Ishika Kumar](https://github.com/Ishika11)
-Juhi Mittal
+[Ishika Kumar](https://github.com/Ishika11)
+[Juhi Mittal](https://github.com/juhi10071998)
 Tulika Jha
 Neha Mittal
